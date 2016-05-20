@@ -19,6 +19,8 @@
             $html.find('.target-' + i).attr('target', values[i]);
             $html.find('.data-' + i).attr('data-' + i, values[i]);
             $html.find('.text-' + i).text(values[i]);
+
+            $html.find('.onclick-' + i).attr('onclick', values[i]);
         }
 
         return $html.children();

@@ -1,6 +1,6 @@
 ### Installation
 ```sh
-bower install jquery.template
+bower install jquery.template.sp
 ```
 
 

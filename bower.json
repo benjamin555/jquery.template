@@ -1,10 +1,10 @@
 {
-  "name": "jquery.template",
+  "name": "jquery.template.sp",
   "main": "jquery.template.js",
   "version": "0.1.2",
-  "homepage": "https://github.com/ChrisAntaki/jquery.template",
+  "homepage": "https://github.com/benjamin555/jquery.template",
   "authors": [
-    "Chris Antaki <ChrisAntaki@gmail.com>"
+    "Benjamin Chen <benjamin555@foxmail.com>"
   ],
   "description": "Simple jQuery templates - supports caching - multiple syntaxes",
   "keywords": [
