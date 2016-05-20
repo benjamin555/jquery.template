@@ -1,7 +1,7 @@
 {
   "name": "jquery.template.sp",
   "main": "jquery.template.js",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "homepage": "https://github.com/benjamin555/jquery.template",
   "authors": [
     "Benjamin Chen <benjamin555@foxmail.com>"
